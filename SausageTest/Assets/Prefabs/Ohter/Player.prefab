@@ -421,6 +421,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83c689f34c38d23449c878ac9343193d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpMultiplayer: 0.8
+  velocityClamp: 13.7
 --- !u!1 &8736135361111189994
 GameObject:
   m_ObjectHideFlags: 0
